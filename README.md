@@ -5,7 +5,7 @@ The explore stock prediction using three different methods(and more):
 
 
 
-1.  LinearRegresstion
+1.  LinearRegression
 2.  Ridge
 3.  Lasso
 
