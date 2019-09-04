@@ -10,7 +10,6 @@ The explore stock prediction using three different methods(and more):
 3.  Lasso
 
 
-*   and some more!
 
 The 'Snap Inc.' stock data from Yahoo Finance using data reader from pandas.
 
